@@ -100,7 +100,7 @@
 - Dockerize Flask apps (`Dockerfile`, `docker-compose.yml`)
 - Use Gunicorn + Nginx for production
 - Deploy to:
-  - Heroku
+  - Heroku.
   - Render
   - Railway
   - AWS/VPS
