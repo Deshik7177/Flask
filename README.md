@@ -9,7 +9,7 @@
 - Learn Python (functions, classes, decorators)
 - Understand Flask: WSGI, micro-framework, routing
 - Use `@app.route()` to handle URLs
-- Learn Jinja2 templating (`{{ }}`, `{% %}`)
+- Learn Jinja2 templating (`{{ }}`, `{% %}`) 
 - Handle GET/P OST requests with `request`
 - Serve static files (images, CSS, JS)
 - Use `render_template`, `redirect`, and `url_for`
